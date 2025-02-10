@@ -6,16 +6,16 @@ Watch the [Conditionals](https://schoolsnsw.sharepoint.com/:v:/r/sites/TempeHS-S
 
 ## Dictionary of Terms
 
-1. Assignment
-2. Equality
-3. Conditional control structures
-4. Boolean
-5. `if` statement
-6. `if else` statement
-7. `if else if` statement
-8. `or` `and` `not` conditions
-9. modulo operator
-10. match case (switch case)
+1. Assignment - Assigns a term
+2. Equality - Two strings or integers are equal
+3. Conditional control structures - If statements and stuff 
+4. Boolean - One of two values
+5. `if` statement - Runs a command if a outcome is met
+6. `if else` statement - Runs a command ii previous if statement is false
+7. `if else if` statement - Runs a command if an outcome is met and previous statement is false
+8. `or` `and` `not` conditions - Adds statements
+9. modulo operator  - Returns the remainder of a value
+10. match case (switch case) - Changes capitalisation of text
 
 ## Problems
 
