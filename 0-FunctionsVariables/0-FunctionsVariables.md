@@ -6,24 +6,24 @@ Watch the [Functions, Variables](https://schoolsnsw.sharepoint.com/:v:/r/sites/T
 
 ## Dictionary of Terms
 
-1. Compilation
-2. Interpretation
-3. Terminal
-4. Function
-5. Argument
-6. Parameter
-7. Documentation
-8. Comments
-9. Variables
-10. Strings
-11. Interger
-12. Float
-13. Parenthasis
-14. Square Brackets
-15. format string
-16. Define
-17. Variable scope
-18. return (value)
+1. Compilation - Converting readable code into a representation which the computor can read
+2. Interpretation - The code is executed sequentially 
+3. Terminal - Area to write commands
+4. Function - Code which has an action
+5. Argument - Data obtained outside of the code from input of the user
+6. Parameter - Placeholders for functions
+7. Documentation - Text explaing the use of code
+8. Comments - Sections in code which are not used (#)
+9. Variables - A way to reduce repetition of code by storing information
+10. Strings - Textual data stored in 
+11. Interger - A whole number
+12. Float - A number (With decimals)
+13. Parenthesis - Invokes functions
+14. Square Brackets - Used for creating lists
+15. format string - Inserting a custon string or variable in predefined text
+16. Define - Allows variables to be defined
+17. Variable scope - Positioning of variables in code
+18. return (value) - Returns a value when activated
 
 ## Problems
 
